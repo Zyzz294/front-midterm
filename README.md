@@ -3,5 +3,9 @@
 Deployed app with vercel:
 [https://front-end-midterm.vercel.app/](https://front-midterm.vercel.app/)
 
-![output]([https://user-images.githubusercontent.com/64580490/200201339-0f9b6c79-456e-4055-9200-55b7207b0ed9.gif](https://i2.imgflip.com/84nc8s.gif))
+![gif](https://github.com/Zyzz294/front-midterm/blob/main/frontgif.gif?raw=true)
+<br>
+![image1](https://raw.githubusercontent.com/Zyzz294/front-midterm/main/midterm1.png)
+<br>
+![image2](https://raw.githubusercontent.com/Zyzz294/front-midterm/main/midterm2.png)
 
